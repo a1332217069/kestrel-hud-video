@@ -1,0 +1,20 @@
+{
+  "durationSeconds": 10,
+  "fps": 60,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frames": 600,
+  "audioPayloadSHA256": "f437b5aa28646850aec03992470e987ebf7c547294fea17d1587681178c9d731",
+  "files": {
+    "kestrel-base.mp4": {
+      "bytes": 15262218,
+      "sha256": "9be5443228e718a2ec2b5f43e0e56567c9c00805b4fdd6a4bb4b70c4430936dd"
+    },
+    "kestrel-glow.mp4": {
+      "bytes": 14725197,
+      "sha256": "59b8f4f0115055599a13d7f83b763fd2e9fb447f6b474f19acd2314e50f989ef"
+    }
+  }
+}

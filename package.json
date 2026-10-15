@@ -1,0 +1,17 @@
+{
+  "name": "kestrel-hud-video",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "UNLICENSED",
+  "description": "Code-generated 10-second geospatial HUD motion film, with reproducible rendering and glow postprocessing.",
+  "scripts": {
+    "build:vendor": "node tools/build_vendor.mjs"
+  },
+  "dependencies": {
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "vite": "8.3.4"
+  }
+}
